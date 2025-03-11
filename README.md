@@ -26,6 +26,7 @@ npx prisma migrate dev
 # Open Prisma Studio
 npx prisma studio
 ```
+![image](https://github.com/user-attachments/assets/1d5a78c9-00a8-40fe-93b1-1058aa3b8210)
 
 ### add user module
 nest g module user
@@ -41,6 +42,7 @@ npm run start:dev
 # Production mode
 npm run start:prod
 ```
+![image](https://github.com/user-attachments/assets/6a0bd3f6-1e0b-45c4-ba0e-04bd6a0b949a)
 
 ## Project Structure
 
